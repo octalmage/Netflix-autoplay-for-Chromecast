@@ -16,4 +16,5 @@ Netflix autoplay for Chromecast is a Google Chrome extension.
 - Navigate to the unzipped plugin and hit select!
 
 
-[![Gitter chat](https://badges.gitter.im/octalmage/Netflix-autoplay-for-Chromecast.png)](https://gitter.im/octalmage/Netflix-autoplay-for-Chromecast)
+[![Gitter chat](https://badges.gitter.im/octalmage/Netflix-autoplay-for-Chromecast.png)](https://gitter.im/octalmage/Netflix-autoplay-for-Chromecast) <- Click the banner to chat!  
+ 
