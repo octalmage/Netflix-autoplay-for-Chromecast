@@ -6,10 +6,15 @@ Currently it will move to the next episode, but it will not cast the tab. I'm co
 For this to work correctly you need start on the episode listing, for example: http://www.netflix.com/WiMovie/70185133?trkid=13462050
 
 Installation:
+
 [Click here to download.](https://github.com/octalmage/Netflix-autoplay-for-Chromecast/zipball/master/)  
+
 Unzip download.
+
 Navigate to chrome://extensions
+
 Expand the developer dropdown menu and click "Load Unpacked Extension"
+
 Navigate to unzipped plugin and hit select!
 
 
