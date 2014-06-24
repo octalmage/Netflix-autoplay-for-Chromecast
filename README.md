@@ -7,6 +7,8 @@ For this to work correctly you need start on the episode listing, for example: h
 
 ### Installation:
 
+Netflix autoplay for Chromecast is a Google Chrome extension. 
+
 - [Click here to download.](https://github.com/octalmage/Netflix-autoplay-for-Chromecast/zipball/master/)  
 - Unzip download.
 - Navigate to chrome://extensions
