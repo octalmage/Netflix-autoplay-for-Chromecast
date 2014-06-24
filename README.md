@@ -13,7 +13,7 @@ Netflix autoplay for Chromecast is a Google Chrome extension.
 - Unzip download.
 - Navigate to chrome://extensions
 - Expand the developer dropdown menu and click "Load Unpacked Extension"
-- Navigate to unzipped plugin and hit select!
+- Navigate to the unzipped plugin and hit select!
 
 
 [![Gitter chat](https://badges.gitter.im/octalmage/Netflix-autoplay-for-Chromecast.png)](https://gitter.im/octalmage/Netflix-autoplay-for-Chromecast)
