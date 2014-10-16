@@ -1,3 +1,5 @@
+# This is no longer being developed since Netflix implemented auto play for Chromecast.
+
 Netflix-autoplay-for-Chromecast
 ===============================
 
